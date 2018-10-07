@@ -55,7 +55,7 @@
 | Kashish Nagpal |     |      |        |         |
 | Khushal Mehta |     |      |        |         |
 | Kirti Bajaj |     |      |        |         |
-| kishan Gupta |     |      |        |         |
+| kishan Gupta |  III   |  IT    |<a href="https://www.github.com/kishangupta032">kishangupta</a>|         |
 | Kratik Vijay |     |      |        |         |
 | Kunal Chaudhary |     |      |        |         |
 | Kunal Gurjar |     |      |        |         |
