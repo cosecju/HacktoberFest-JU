@@ -11,7 +11,7 @@
 | aditya surana |     |      |        |         |
 | Aishwarya Nuwal |     |      |        |         |
 | akshat singhal |     |      |        |         |
-| AKSHAY BENGANI | III | IT | <a href="https://www.github.com/akshaybengani" target="_blank">akshaybengani</a> |        |
+| AKSHAY BENGANI | III | IT |          |        |
 | Akshay Gagrani |     |      |        |         |
 | akshi sancheti |     |      |        |         |
 | Aman Agrawal |     |      |        |         |
@@ -47,6 +47,7 @@
 | Gaurav Singh yadav |     |      |        |         |
 | Gaurav Vaishnav |     |      |        |         |
 | Harsh Bhatnagar |     |      |        |         |
+| Harsh Motwani |  I    |   IT   |  <a href="https://github.com/HarshMotwani"> Harsh Motwani </a>      |         |
 | Hemadri Gupta |     |      |        |         |
 | Hitesh Subnani |     |      |        |         |
 | Ishu Sharma |     |      |        |         |
@@ -129,6 +130,7 @@
 | Vipin Kumar |     |      |        |         |
 | Vishal Chauhan |     |      |        |         |
 | Vishal Khandelwal |     |      |        |         |
+| Vishal M Karnawat |   I  |  IT    |   <a href="https://github.com/VishalKarnawat"> VishalKarnawat </a>    |         |
 | Vishal Shukla |     |      |        |         |
 | Yajushi Srivastava |     |      |        |         |
 | Yash Bhutoria |     |      |        |         |
