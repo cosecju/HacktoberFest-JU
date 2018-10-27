@@ -1,0 +1,19 @@
+Open-source software-
+
+Open-source software (OSS) is a type of computer software which source code is released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose.Open-source software may be developed in a collaborative public manner. According to scientists who have studied it, open-source software is a prominent example of open collaboration.
+
+Open-source software development
+
+Development model:-  In his 1997 essay The Cathedral and the Bazaar,open-source evangelist Eric S. Raymond suggests a model for developing OSS known as the bazaar model. Raymond likens the development of software by traditional methodologies to building a cathedral, "carefully crafted by individual wizards or small bands of mages working in splendid isolation". He suggests that all software should be developed using the bazaar style, which he described as "a great babbling bazaar of differing agendas and approaches."
+
+In the traditional model of development, which he called the cathedral model, development takes place in a centralized way. Roles are clearly defined. Roles include people dedicated to designing (the architects), people responsible for managing the project, and people responsible for implementation. Traditional software engineering follows the cathedral model.
+
+Gregorio Robles suggests that software developed using the bazaar model should exhibit the following patterns:
+1 Users should be treated as co-developers
+2 Early releases
+3 Frequent integration
+4 Several versions
+5 High modularization
+6 Dynamic decision making structure
+
+
