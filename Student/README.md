@@ -148,4 +148,5 @@
 | Aryan Dadheech |  I   |   CSE   |    <a href="https://github.com/n0obs73r" target=_blank > Aryan Dadheech </a>    |         |
 | Pinachi Bajaj  |  I   |   CSE   |<a href="https://github.com/pinachibajaj">pinachibajaj</a>        |         |
 | Rajeev Lochan Sharma  |II     | CSE     |<a href = "www.github.com/Rajeevlochansharma">Rajeev</a>    |i am rajeev         |
+| hemal taneja  |  |     |<a href = "www.github.com/hemaltaneja">hemal</a>    |i am hemal         |
 |  |     |      |        |         |
